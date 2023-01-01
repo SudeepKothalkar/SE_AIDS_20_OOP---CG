@@ -1,0 +1,24 @@
+
+----------MENU----------
+        1: Write
+        2: Read
+        3: Exit
+Enter your choice= 1
+
+(End your sentence with '.')
+Enter data to write in the file : Welcome to digital World.
+
+
+----------MENU----------
+        1: Write
+        2: Read
+        3: Exit
+Enter your choice= 2
+
+Text written in file : WelcometodigitalWorld
+
+----------MENU----------
+        1: Write
+        2: Read
+        3: Exit
+Enter your choice= 3

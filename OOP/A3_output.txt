@@ -1,0 +1,31 @@
+Enter Title of the Book : Can't_Hurt_Me
+
+Enter Price : 500
+
+Title : Can't_Hurt_Me
+
+Price : 500
+
+Enter Number of pages : 759
+
+Number of pages : 759
+
+Enter playing time : 100
+
+Playing time of tape : 100 min
+
+Enter Title of the Book : Wings_Of_Fire
+
+Enter Price : 850
+
+Title : Wings_Of_Fire
+
+Price : 850
+
+Enter Number of pages : 450
+
+Number of pages : 450
+
+Enter playing time : 150
+
+Playing time of tape : 150 min

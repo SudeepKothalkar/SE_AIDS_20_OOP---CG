@@ -1,0 +1,116 @@
+
+***** Menu *****  
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:1
+
+Enter Item Name:Bottle
+
+Enter Item Quantity:12
+
+Enter Item Cost:20
+
+Enter Item Code:71
+
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:2
+
+
+Item Name:Bottle
+Item Quantity:12
+Item Cost:20
+Item Code:71
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:1
+
+Enter Item Name:Tiffin 
+
+Enter Item Quantity:23
+
+Enter Item Cost:80
+
+Enter Item Code:69
+
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:3
+
+Enter Item Code to search:69
+
+Found.
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:4
+
+
+ Sorted on Cost
+
+Item Name:Bottle
+Item Quantity:12
+Item Cost:20
+Item Code:71
+
+Item Name:Tiffin
+Item Quantity:23
+Item Cost:80
+Item Code:69
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:5
+
+Enter Item Code to delete:71
+
+Deleted.
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:2
+
+
+Item Name:Tiffin
+Item Quantity:23
+Item Cost:80
+Item Code:69
+***** Menu *****
+1.Insert
+2.Display
+3.Search
+4.Sort
+5.Delete
+6.Exit
+Enter your choice:6

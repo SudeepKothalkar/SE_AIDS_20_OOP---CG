@@ -1,0 +1,22 @@
+========Population of states in India==========
+
+ Size of populationMap5
+
+ Enter name of the state :Maharashtra
+Maharashtra 's population is 7026357
+PS C:\Users\SHREE\Desktop\CG> g++ A7.cpp
+PS C:\Users\SHREE\Desktop\CG> .\A7.exe  
+========Population of states in India==========
+
+ Size of populationMap5
+
+ Enter name of the state :Delhi
+Key is not in populationMap   
+PS C:\Users\SHREE\Desktop\CG> g++ A7.cpp
+PS C:\Users\SHREE\Desktop\CG> .\A7.exe  
+========Population of states in India==========
+
+ Size of populationMap5
+
+ Enter name of the state :Punjab
+Punjab 's population is 5789032

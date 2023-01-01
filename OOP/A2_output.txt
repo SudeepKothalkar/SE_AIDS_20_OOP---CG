@@ -1,0 +1,20 @@
+Enter Student Name : xyz
+Enter Roll Number : 65
+Enter Class : SE
+Enter Division : A
+Enter Date of Birth : 28/7/2003
+Enter Blood Group : A+
+Enter Contact Address : Nashik
+Enter Telephone Number : 8942317564
+Enter Driving License Number : Do you want to add another student (y/n) : ---------------------------------------------------------------
+Student Name : xyz
+Roll Number : 65
+Class : SE
+Division : A
+Date of Birth : 28/7/2003
+Blood Group : A+
+Contact Address : Nashik
+Telephone Number : 2147483647
+Driving License Number : 15928792
+---------------------------------------------------------------
+Total Students : 1
